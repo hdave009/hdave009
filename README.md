@@ -18,11 +18,11 @@ Here are some ideas to get you started:
   - [LinkedIn](https://www.linkedin.com/in/h7dave/)
   - [Email](mailto:hdave009@gmail.com)
  
-## 🔥 Streak Stats
+<!-- ## 🔥 Streak Stats
 <br>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=hdave009&theme=algolia" alt="hdave009" /></p>
 <br>
-
+ -->
 ## 🛠️ My Skills
 
 ### 👉 Programming languages
