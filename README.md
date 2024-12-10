@@ -11,6 +11,10 @@ Here are some ideas to get you started:
 ## :sassy_man:  About me
 - :mortar_board: I’m currently studying Computer Science at the University of Waterloo
 - :briefcase: My work experience:
+  - Fullstack Developer Intern @ ResQ (September 2024 - December 2024) 
+  - Backend Developer Intern @ Deliverect (January 2024 - April 2024) 
+  - Software Engineering Intern @ Arctic Wolf (May 2023 - August 2023) 
+  - Software Engineering Intern @ Ford Pro (September 2022 - December 2022)
   - Web Developer Co-op @ Horizn Studios Inc. (January 2022 - April 2022)
   - Performance Automation Co-op @ Ford Motor Company of Canada (May 2021 - August 2021)
 - 🌱 I’m currently learning how to use MongoDB, Express, React/Redux, and Node.js to create fullstack apps.
